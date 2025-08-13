@@ -1,5 +1,5 @@
-🌍 Travel & Tour Website
-A responsive and interactive Travel & Tour Website that allows users to explore destinations, view packages, and book their dream trips online.
+🌍 TrailTales Website
+A responsive and interactive TrailTales Website that allows users to explore destinations, view packages, and book their dream trips online.
 
 🛠 Technologies Used
 HTML5 – Structure and content
